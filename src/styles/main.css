@@ -1,0 +1,7 @@
+body {
+  font-size: 14px;
+}
+body p {
+  color: #f8f8f8;
+  text-decoration: line-through;
+}
